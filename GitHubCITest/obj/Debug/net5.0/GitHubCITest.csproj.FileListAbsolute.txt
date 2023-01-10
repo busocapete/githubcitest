@@ -1,0 +1,16 @@
+C:\Users\PETETOSH\source\repos\GitHubCITest\GitHubCITest\bin\Debug\net5.0\GitHubCITest.exe
+C:\Users\PETETOSH\source\repos\GitHubCITest\GitHubCITest\bin\Debug\net5.0\GitHubCITest.deps.json
+C:\Users\PETETOSH\source\repos\GitHubCITest\GitHubCITest\bin\Debug\net5.0\GitHubCITest.runtimeconfig.json
+C:\Users\PETETOSH\source\repos\GitHubCITest\GitHubCITest\bin\Debug\net5.0\GitHubCITest.runtimeconfig.dev.json
+C:\Users\PETETOSH\source\repos\GitHubCITest\GitHubCITest\bin\Debug\net5.0\GitHubCITest.dll
+C:\Users\PETETOSH\source\repos\GitHubCITest\GitHubCITest\bin\Debug\net5.0\ref\GitHubCITest.dll
+C:\Users\PETETOSH\source\repos\GitHubCITest\GitHubCITest\bin\Debug\net5.0\GitHubCITest.pdb
+C:\Users\PETETOSH\source\repos\GitHubCITest\GitHubCITest\obj\Debug\net5.0\GitHubCITest.csprojAssemblyReference.cache
+C:\Users\PETETOSH\source\repos\GitHubCITest\GitHubCITest\obj\Debug\net5.0\GitHubCITest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PETETOSH\source\repos\GitHubCITest\GitHubCITest\obj\Debug\net5.0\GitHubCITest.AssemblyInfoInputs.cache
+C:\Users\PETETOSH\source\repos\GitHubCITest\GitHubCITest\obj\Debug\net5.0\GitHubCITest.AssemblyInfo.cs
+C:\Users\PETETOSH\source\repos\GitHubCITest\GitHubCITest\obj\Debug\net5.0\GitHubCITest.csproj.CoreCompileInputs.cache
+C:\Users\PETETOSH\source\repos\GitHubCITest\GitHubCITest\obj\Debug\net5.0\GitHubCITest.dll
+C:\Users\PETETOSH\source\repos\GitHubCITest\GitHubCITest\obj\Debug\net5.0\ref\GitHubCITest.dll
+C:\Users\PETETOSH\source\repos\GitHubCITest\GitHubCITest\obj\Debug\net5.0\GitHubCITest.pdb
+C:\Users\PETETOSH\source\repos\GitHubCITest\GitHubCITest\obj\Debug\net5.0\GitHubCITest.genruntimeconfig.cache
